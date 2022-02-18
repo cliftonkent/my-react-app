@@ -10,7 +10,7 @@ function App() {
           Spinning  <code>Wheel</code> of Death
         </p>
        <p>
-         Fun
+         Fun for the whole family
        </p>
       </header>
     </div>
