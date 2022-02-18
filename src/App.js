@@ -9,7 +9,9 @@ function App() {
         <p>
           Spinning  <code>Wheel</code> of Death
         </p>
-       
+       <p>
+         Fun
+       </p>
       </header>
     </div>
   );
